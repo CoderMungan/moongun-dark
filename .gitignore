@@ -2,4 +2,5 @@ node_modules
 *.vsix
 CHANGELOG.md
 .vscode/
+.vscode
 .gitattributes
