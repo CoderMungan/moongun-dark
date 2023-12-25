@@ -1,7 +1,7 @@
 ### Getting Start
 - Just i make for fun
 - if u wanna change something please create issue!
-- Join our discord comminity [kampus](https://discord.gg/kampus)
+- Join our comminity [kampus](https://discord.gg/kampus)
 
 ## Photos
 

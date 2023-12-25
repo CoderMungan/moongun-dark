@@ -1,6 +1,9 @@
 node_modules
 *.vsix
 CHANGELOG.md
-.vscode/
+.vscode/*
+/.vscode/
 .vscode
 .gitattributes
+.DS_Store
+.vscode
