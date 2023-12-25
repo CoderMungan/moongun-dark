@@ -24,6 +24,7 @@
     "editor",
     "IDE"
   ],
+  "icon": "themes/logo.png",
   "engines": {
     "vscode": "^1.85.0"
   },
