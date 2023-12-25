@@ -1,0 +1,26 @@
+{
+  "name": "moongun-dark",
+  "displayName": "MoonGun Dark",
+  "description": "MoonGun Dark Theme feel better when coding!",
+  "version": "1.0.0",
+  "publisher": "CoderMungan",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MoonGun Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MoonGun Dark-color-theme.json"
+      }
+    ]
+  }
+}
