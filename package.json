@@ -8,6 +8,22 @@
     "type": "git",
     "url": "https://github.com/CoderMungan/moongun-dark"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark blue theme",
+    "dark blue",
+    "kampus theme",
+    "dark",
+    "coder dark blue",
+    "codermungan theme",
+    "codermungan",
+    "moongun theme",
+    "moongun",
+    "vscode",
+    "editor",
+    "IDE"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
