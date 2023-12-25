@@ -6,7 +6,7 @@
   "publisher": "CoderMungan",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/CoderMungan/moongun-dark"
   },
   "engines": {
     "vscode": "^1.85.0"
