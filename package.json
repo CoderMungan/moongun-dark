@@ -2,7 +2,7 @@
   "name": "moongun-dark",
   "displayName": "MoonGun Dark",
   "description": "MoonGun Dark Theme - Creativity at Night Time Dive Deep with MoonGun Dark Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "CoderMungan",
   "repository": {
     "type": "git",
@@ -11,6 +11,9 @@
   "keywords": [
     "theme",
     "dark theme",
+    "MoonGun Dark Nietzsche",
+    "MoonGun Dark",
+    "Nietzsche",
     "dark blue theme",
     "dark blue",
     "kampus theme",
@@ -28,7 +31,7 @@
     "editor",
     "IDE"
   ],
-  "icon": "themes/logo.png",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -41,6 +44,11 @@
         "label": "MoonGun Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/MoonGun Dark-color-theme.json"
+      },
+      {
+        "label": "MoonGun Dark Nietzsche",
+        "uiTheme": "vs-dark",
+        "path" : "./themes/MoonGun Dark Nietzsche-color-theme.json"
       }
     ]
   }
