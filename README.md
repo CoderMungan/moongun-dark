@@ -15,3 +15,6 @@
 
 <img width="1680" alt="Ekran Resmi 2024-01-04 05 43 19" src="https://github.com/CoderMungan/moongun-dark/assets/126997544/0503837b-dcdb-477e-beb9-48733f9c7330">
 
+## MoonGun Dark Cool
+
+![Ekran Resmi 2024-01-15 22 57 53](https://github.com/CoderMungan/moongun-dark/assets/126997544/cb98c619-a640-4655-ae05-26d8d3e1c41e)
