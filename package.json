@@ -2,7 +2,7 @@
   "name": "moongun-dark",
   "displayName": "MoonGun Dark",
   "description": "MoonGun Dark Theme - Creativity at Night Time Dive Deep with MoonGun Dark Theme",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publisher": "CoderMungan",
   "repository": {
     "type": "git",
@@ -54,6 +54,11 @@
         "label": "MoonGun Dark Nietzsche",
         "uiTheme": "vs-dark",
         "path" : "./themes/MoonGun Dark Nietzsche-color-theme.json"
+      },
+      {
+        "label": "MoonGun Dark Cool",
+        "uiTheme": "vs-dark",
+        "path" : "./themes/MoonGun Dark Cool-color-theme.json"
       }
     ]
   }
