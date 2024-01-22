@@ -2,7 +2,7 @@
   "name": "moongun-dark",
   "displayName": "MoonGun Themes",
   "description": "MoonGun Themes - Creativity at Night Time Dive Deep with MoonGun Themes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "publisher": "CoderMungan",
   "repository": {
     "type": "git",
@@ -36,7 +36,7 @@
   ],
   "icon": "logo.png",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.85.2"
   },
   "categories": [
     "Themes"
