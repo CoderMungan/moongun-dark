@@ -2,7 +2,7 @@
   "name": "moongun-dark",
   "displayName": "MoonGun Themes",
   "description": "MoonGun Themes - Creativity at Night Time Dive Deep with MoonGun Themes",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "publisher": "CoderMungan",
   "repository": {
     "type": "git",
@@ -72,6 +72,12 @@
         "label": "MoonGun Dark SS",
         "uiTheme": "vs-dark",
         "path" : "./themes/MoonGun Dark SS-color-theme.json"
+      }
+      ,
+      {
+        "label": "MoonGun Dark Purple",
+        "uiTheme": "vs-dark",
+        "path" : "./themes/MoonGun Dark Purple-color-theme.json"
       }
     ]
   }
