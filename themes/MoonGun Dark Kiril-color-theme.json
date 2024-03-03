@@ -1,7 +1,7 @@
 {
   "name": "MoonGun Dark Kiril",
   "type": "dark",
-  "colors": {
+	"colors": {
     "focusBorder": "#a394f033",
     "foreground": "#bdbdbd",
     "errorForeground": "#ff0000",
