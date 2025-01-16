@@ -1,84 +1,88 @@
 {
-  "name": "moongun-dark",
-  "displayName": "MoonGun Themes",
-  "description": "MoonGun Themes - Creativity at Night Time Dive Deep with MoonGun Themes",
-  "version": "1.2.3",
-  "publisher": "CoderMungan",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CoderMungan/moongun-dark"
-  },
-  "keywords": [
-    "theme",
-    "rythmtechnologies",
-    "rythm",
-    "technology",
-    "technologies",
-    "moongun themes",
-    "dark theme",
-    "MoonGun Dark Nietzsche",
-    "MoonGun Dark",
-    "Nietzsche",
-    "Inesh",
-    "Cool",
-    "Blue",
-    "dark blue theme",
-    "dark blue",
-    "kampus theme",
-    "dark",
-    "coder dark blue",
-    "codermungan theme",
-    "codermungan",
-    "moongun theme",
-    "moongun",
-    "dark theme",
-    "dark themes",
-    "best theme",
-    "dark blue themes",
-    "vscode",
-    "editor",
-    "IDE"
-  ],
-  "icon": "logo.png",
-  "engines": {
-    "vscode": "1.87.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "MoonGun Dark Inesh",
-        "uiTheme": "vs-dark",
-        "path" : "./themes/MoonGun Dark Inesh-color-theme.json"
-      },
-      {
-        "label": "MoonGun Dark Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/MoonGun Dark Blue-color-theme.json"
-      },
-      {
-        "label": "MoonGun Dark Nietzsche",
-        "uiTheme": "vs-dark",
-        "path" : "./themes/MoonGun Dark Nietzsche-color-theme.json"
-      },
-      {
-        "label": "MoonGun Dark Cool",
-        "uiTheme": "vs-dark",
-        "path" : "./themes/MoonGun Dark Cool-color-theme.json"
-      },
-      {
-        "label": "MoonGun Dark SS",
-        "uiTheme": "vs-dark",
-        "path" : "./themes/MoonGun Dark SS-color-theme.json"
-      }
-      ,
-      {
-        "label": "MoonGun Dark Kiril",
-        "uiTheme": "vs-dark",
-        "path" : "./themes/MoonGun Dark Kiril-color-theme.json"
-      }
-    ]
-  }
+    "name": "moongun-dark",
+    "displayName": "MoonGun Themes",
+    "description": "MoonGun Themes - Creativity at Night Time Dive Deep with MoonGun Themes",
+    "version": "1.2.4",
+    "publisher": "CoderMungan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CoderMungan/moongun-dark"
+    },
+    "keywords": [
+        "theme",
+        "rythmtechnologies",
+        "rythm",
+        "technology",
+        "technologies",
+        "moongun themes",
+        "dark theme",
+        "MoonGun Dark Nietzsche",
+        "MoonGun Dark",
+        "Nietzsche",
+        "Inesh",
+        "Cool",
+        "Blue",
+        "dark blue theme",
+        "dark blue",
+        "kampus theme",
+        "dark",
+        "coder dark blue",
+        "codermungan theme",
+        "codermungan",
+        "moongun theme",
+        "moongun",
+        "dark theme",
+        "dark themes",
+        "best theme",
+        "dark blue themes",
+        "vscode",
+        "editor",
+        "IDE"
+    ],
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "1.96.3"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MoonGun Dark Inesh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Inesh-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Blue-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Nietzsche",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Nietzsche-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Cool",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Cool-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark SS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark SS-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Kiril",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Kiril-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Cool Py",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Cool Py-color-theme.json"
+            }
+        ]
+    }
 }
