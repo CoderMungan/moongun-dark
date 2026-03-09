@@ -2,7 +2,7 @@
     "name": "moongun-dark",
     "displayName": "MoonGun Themes",
     "description": "MoonGun Themes - Creativity at Night Time Dive Deep with MoonGun Themes",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "publisher": "CoderMungan",
     "repository": {
         "type": "git",
@@ -41,7 +41,7 @@
     ],
     "icon": "logo.png",
     "engines": {
-        "vscode": "^1.85.2"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
@@ -82,6 +82,11 @@
                 "label": "MoonGun Dark Cool Py",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MoonGun Dark Cool Py-color-theme.json"
+            },
+            {
+                "label": "MoonGun Dark Bombarda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoonGun Dark Bombarda-color-theme.json"
             }
         ]
     }
